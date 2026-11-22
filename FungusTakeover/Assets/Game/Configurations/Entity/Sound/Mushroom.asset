@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40141eb707b61e34fb3ec9dc070ed9fe, type: 3}
+  m_Name: Mushroom
+  m_EditorClassIdentifier: 
+  <Sounds>k__BackingField:
+    <Attack>k__BackingField:
+      Guid:
+        Data1: -1902693985
+        Data2: 1290300689
+        Data3: 985045120
+        Data4: -1367554545
+      Path: event:/Character/MushroomTank/MC_Attack_Hit
+    <Damage>k__BackingField:
+      Guid:
+        Data1: 1417656060
+        Data2: 1214757331
+        Data3: -2032199762
+        Data4: -1002974246
+      Path: event:/Character/MushroomTank/MC_Gets_Damage
+    <Death>k__BackingField:
+      Guid:
+        Data1: 424872428
+        Data2: 1082665384
+        Data3: 1061507756
+        Data4: -1741376598
+      Path: event:/Character/MushroomTank/MC_Death
+    <Walking>k__BackingField:
+      Guid:
+        Data1: -1362612906
+        Data2: 1336259426
+        Data3: 591439003
+        Data4: -695712905
+      Path: event:/Character/MushroomTank/MC_Walking
+    <CallAllies>k__BackingField:
+      Guid:
+        Data1: 385928519
+        Data2: 1148866387
+        Data3: -238052174
+        Data4: 1797370851
+      Path: event:/Character/MushroomTank/MC_CallAllies
+    <EatAllies>k__BackingField:
+      Guid:
+        Data1: 232922022
+        Data2: 1213881227
+        Data3: -97207110
+        Data4: -1857177268
+      Path: event:/Character/MushroomTank/MC_EatAllies
+    <SporeShoot>k__BackingField:
+      Guid:
+        Data1: 986249118
+        Data2: 1211348475
+        Data3: 1254462114
+        Data4: -421639516
+      Path: event:/Character/MushroomTank/MC_Sporeshoot
+    <TakeOver>k__BackingField:
+      Guid:
+        Data1: 986249118
+        Data2: 1211348475
+        Data3: 1254462114
+        Data4: -421639516
+      Path: event:/Character/MushroomTank/MC_Sporeshoot

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40141eb707b61e34fb3ec9dc070ed9fe, type: 3}
+  m_Name: Ant
+  m_EditorClassIdentifier: 
+  <Sounds>k__BackingField:
+    <Attack>k__BackingField:
+      Guid:
+        Data1: -392396288
+        Data2: 1257996191
+        Data3: -828983153
+        Data4: -1997958201
+      Path: event:/NPC/Ant/Ant_Attack
+    <Damage>k__BackingField:
+      Guid:
+        Data1: 375158449
+        Data2: 1218960688
+        Data3: -686150009
+        Data4: -279759427
+      Path: event:/NPC/Ant/Ant_Damage
+    <Death>k__BackingField:
+      Guid:
+        Data1: 1071743236
+        Data2: 1074441165
+        Data3: 1350265777
+        Data4: 1616462950
+      Path: event:/NPC/Ant/Ant_Death
+    <Walking>k__BackingField:
+      Guid:
+        Data1: 1488768790
+        Data2: 1125684407
+        Data3: 1160193976
+        Data4: 289736976
+      Path: event:/NPC/Ant/Ant_Walking
+    <CallAllies>k__BackingField:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    <EatAllies>k__BackingField:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    <SporeShoot>k__BackingField:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    <TakeOver>k__BackingField:
+      Guid:
+        Data1: 986249118
+        Data2: 1211348475
+        Data3: 1254462114
+        Data4: -421639516
+      Path: event:/Character/MushroomTank/MC_Sporeshoot

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40141eb707b61e34fb3ec9dc070ed9fe, type: 3}
+  m_Name: Wasp
+  m_EditorClassIdentifier: 
+  <Sounds>k__BackingField:
+    <Attack>k__BackingField:
+      Guid:
+        Data1: 1012739246
+        Data2: 1256231069
+        Data3: 137423776
+        Data4: -1179716473
+      Path: event:/NPC/Wasp/Wasp_Attack
+    <Damage>k__BackingField:
+      Guid:
+        Data1: 1685694322
+        Data2: 1280228273
+        Data3: 650988447
+        Data4: 2130585461
+      Path: event:/NPC/Wasp/Wasp_Damage
+    <Death>k__BackingField:
+      Guid:
+        Data1: -518762759
+        Data2: 1245935853
+        Data3: -563316807
+        Data4: 1003702255
+      Path: event:/NPC/Wasp/Wasp_Death
+    <Walking>k__BackingField:
+      Guid:
+        Data1: 778814103
+        Data2: 1262633255
+        Data3: 1696336317
+        Data4: 611750866
+      Path: event:/NPC/Wasp/Wasp_Flying
+    <CallAllies>k__BackingField:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    <EatAllies>k__BackingField:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    <SporeShoot>k__BackingField:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    <TakeOver>k__BackingField:
+      Guid:
+        Data1: 986249118
+        Data2: 1211348475
+        Data3: 1254462114
+        Data4: -421639516
+      Path: event:/Character/MushroomTank/MC_Sporeshoot

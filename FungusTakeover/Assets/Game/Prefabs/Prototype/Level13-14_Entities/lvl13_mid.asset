@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fac69a1efe421842b3ba7183bfcf0da, type: 3}
+  m_Name: lvl13_mid
+  m_EditorClassIdentifier: 
+  hpModifierEnemy: 10
+  atkModifierEnemy: 1.5
+  atkRadiusModifierEnemy: 3
+  atkAngleModifierEnemy: 15
+  speedModifierEnemy: 10
+  cooldownModifierEnemy: 2.5
+  noticeModifierEnemy: 3
+  stunModifierEnemy: 0.3
+  stunFlagsEnemy: 9
+  knockbackModifierEnemy: 4
+  hpModifierAlly: 10
+  atkModifierAlly: 2.5
+  atkRadiusModifierAlly: 3
+  atkAngleModifierAlly: 15
+  speedModifierAlly: 14
+  cooldownModifierAlly: 1
+  stunModifierAlly: 0.3
+  stunFlagsAlly: 11
+  knockbackModifierAlly: 4

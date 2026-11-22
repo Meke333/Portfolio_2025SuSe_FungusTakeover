@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:FungusTakeover/Assets/Game/Scripts/Entity/Enemy.meta
+guid: e442eb9290c521348a26cefa7f69e6e5
+========
+guid: 492f46fdc086f314b96ef60ab4c0d467
+>>>>>>>> main:FungusTakeover/Assets/Game/Scripts/Entity/Base/Statemachine/States/Ally.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

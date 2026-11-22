@@ -1,0 +1,10 @@
+using UnityEngine;
+
+namespace Game.UI
+{
+    public class Healthbar : MonoBehaviour
+    {
+
+    }
+}
+

@@ -1,0 +1,10 @@
+{
+  "foldouts": {
+    "Resources (Game.Entity.Player.PlayerResourceHealth)_ChangeValue_Single": true
+  },
+  "parameterValues": {
+    "Resources (Game.Entity.Player.PlayerResourceHealth)_ChangeValue_Single": [
+      0.0
+    ]
+  }
+}

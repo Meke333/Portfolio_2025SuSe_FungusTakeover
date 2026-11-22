@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f35048be65ab0bc409296038e91f2033, type: 3}
+  m_Name: TestLevel8-9_Settings
+  m_EditorClassIdentifier: 
+  cameraView: Top-Down
+  arenaType: Square
+  scaleType: '%'
+  enableNoticeEnemy: 1
+  noticeRadiusEnemy: 3
+  attackRadiusEnemy: 1
+  attackAngleEnemy: 10
+  hpEnemy: 1
+  atkEnemy: 1
+  speedEnemy: 1
+  cooldownEnemy: 1
+  stunEnemy: 1
+  knockbackEnemy: 1
+  sporeAmountPlayer: 10
+  sporeRangePlayer: 8
+  sporeSpeedPlayer: 12
+  attackRadiusPlayer: 4.5
+  attackAnglePlayer: 20
+  hpPlayer: 30
+  atkPlayer: 4
+  speedPlayer: 8
+  cooldownPlayer: 0.5
+  stunPlayer: 0.5
+  stunFlagsPlayer: 14
+  knockbackPlayer: 8
+  rotationSpeed: 100
+  enemySpawnSpeed: 15
+  callTime: 2
+  callSpeedMultiplier: 3
+  knockbackSpeed: 8
+  materialPlayer: {fileID: 2100000, guid: d73f23440d5eadd4ea62a4a4d12f5e97, type: 2}
+  materialEnemy: {fileID: 2100000, guid: 182439ef32bfa954badb5959d46fe42d, type: 2}
+  materialAlly: {fileID: 2100000, guid: d0dddd09448cf5545b391786e18d96b0, type: 2}
+  materialHurt: {fileID: 2100000, guid: 93988d49ef1982641a19af2a0ae3d1d0, type: 2}
+  materialAttack: {fileID: 2100000, guid: 581a0c71987de7340adf63030b64e8f5, type: 2}
+  materialDead: {fileID: 2100000, guid: 79fff91cedb378c48b8d4c0ab3e3a7c3, type: 2}

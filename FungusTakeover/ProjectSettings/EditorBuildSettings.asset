@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Environment/VolumetricFog2/Demo/DemoShaderGraph/DemoShaderGraph.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Game/Scenes/TestScenes/Prototype/TestLevels/Fungus Mechanics Level/TestLevel13.unity
+    guid: 8f42894d85155394b95aaee49ebe29c1
+  - enabled: 0
+    path: Assets/Game/Scenes/TestScenes/Prototype/OnlineUsertesting/OnlineUsertesting.unity
+    guid: d0c414d21c86f1f468605836f3ef4a4d
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/PersistentScene/PersistentScene.unity
+    guid: 6fdd58d4b9c3b414ab4a38898081a105
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/MainMenu/MainMenu.unity
+    guid: b336129826f3c4b499535b837ef624f5
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Base/Player-Ally_Scene.unity
+    guid: e2ec3f1fc1c2a054296f1f1e8842f00d
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Base/Dungeon.unity
+    guid: c10980a99d32b6e41b3b7523e74a75da
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Base/VFX_Graphics.unity
+    guid: 454152b8894e17648a6e96c697c6a445
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Base/Camera.unity
+    guid: dc59b2c982ef3e44ebe93a0921a9902a
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Base/UI.unity
+    guid: c877f1e71e1639745aad4873ac725f26
+  - enabled: 1
+    path: Assets/Game/Scenes/SeparateScenes/Base/Lighting.unity
+    guid: 0542df97e0b74c0469f83e83049e45f2
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 03e32e768e9f2204e8c509f469cf8b96, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 1228ff88c9a16ec4ebc9554b7ca51a72, type: 3}
+  m_UseUCBPForAssetBundles: 0

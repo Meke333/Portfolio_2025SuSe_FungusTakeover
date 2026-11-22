@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fac69a1efe421842b3ba7183bfcf0da, type: 3}
+  m_Name: lvl12_easy
+  m_EditorClassIdentifier: 
+  hpModifierEnemy: 4
+  atkModifierEnemy: 1
+  atkRadiusModifierEnemy: 2
+  atkAngleModifierEnemy: 36
+  speedModifierEnemy: 6
+  cooldownModifierEnemy: 2.5
+  noticeModifierEnemy: 4
+  stunModifierEnemy: 0.1
+  stunFlagsEnemy: 9
+  knockbackModifierEnemy: 0.2
+  hpModifierAlly: 4
+  atkModifierAlly: 2
+  atkRadiusModifierAlly: 2
+  atkAngleModifierAlly: 36
+  speedModifierAlly: 12
+  cooldownModifierAlly: 1
+  stunModifierAlly: 0.1
+  stunFlagsAlly: 9
+  knockbackModifierAlly: 0.2

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fac69a1efe421842b3ba7183bfcf0da, type: 3}
+  m_Name: lvl8_mid
+  m_EditorClassIdentifier: 
+  hpModifierEnemy: 18
+  atkModifierEnemy: 1.5
+  atkRadiusModifierEnemy: 2
+  speedModifierEnemy: 4
+  cooldownModifierEnemy: 2.5
+  noticeModifierEnemy: 3
+  atkAngleModifierEnemy: 15
+  stunModifierEnemy: 0.3
+  stunFlagsEnemy: 10
+  knockbackModifierEnemy: 0.3
+  hpModifierAlly: 18
+  atkModifierAlly: 1.5
+  atkRadiusModifierAlly: 2
+  speedModifierAlly: 8
+  cooldownModifierAlly: 1
+  atkAngleModifierAlly: 15
+  stunModifierAlly: 0.3
+  stunFlagsAlly: 10
+  knockbackModifierAlly: 0.3

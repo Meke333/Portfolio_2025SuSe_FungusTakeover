@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8843a439e5d8b3e4683eece8ba31213c, type: 3}
+  m_Name: FMODEventsConfiguration
+  m_EditorClassIdentifier: 
+  <Music>k__BackingField:
+    <Menu>k__BackingField:
+      Guid:
+        Data1: 312778530
+        Data2: 1090554460
+        Data3: -1259613509
+        Data4: -1279807411
+      Path: event:/Music/MenuTrack
+    <Gameplay_0>k__BackingField:
+      Guid:
+        Data1: -2005529892
+        Data2: 1288430476
+        Data3: 686564503
+        Data4: 1510718271
+      Path: event:/Music/IntroAndMainTheme
+    <Gameplay_1>k__BackingField:
+      Guid:
+        Data1: 774702412
+        Data2: 1302560821
+        Data3: 1174267579
+        Data4: 276189278
+      Path: event:/Music/BattleTrack_02
+    <Gameplay_2>k__BackingField:
+      Guid:
+        Data1: -1024006775
+        Data2: 1309542840
+        Data3: 594848152
+        Data4: -1923806573
+      Path: event:/Music/BattleTrack_03
+    <Gameplay_3>k__BackingField:
+      Guid:
+        Data1: -1243424274
+        Data2: 1080011010
+        Data3: -60006016
+        Data4: -1808285947
+      Path: event:/Music/BattleTrack_01
+  <Sounds>k__BackingField:
+    <GameOver>k__BackingField:
+      Guid:
+        Data1: 386641557
+        Data2: 1328031175
+        Data3: -1900106857
+        Data4: 34496727
+      Path: event:/UI/Game_Over
+    <TakeOver>k__BackingField:
+      Guid:
+        Data1: -130762387
+        Data2: 1232716212
+        Data3: -788723065
+        Data4: -1453293385
+      Path: event:/Character/MushroomTank/MC_TakeOver
+    <EatAllies>k__BackingField:
+      Guid:
+        Data1: 232922022
+        Data2: 1213881227
+        Data3: -97207110
+        Data4: -1857177268
+      Path: event:/Character/MushroomTank/MC_EatAllies
+    <Portal>k__BackingField:
+      Guid:
+        Data1: 1313043398
+        Data2: 1308435827
+        Data3: 1352498831
+        Data4: 1835196449
+      Path: event:/Character/MushroomTank/MC_Portal
+    <DoorOpen>k__BackingField:
+      Guid:
+        Data1: -130762387
+        Data2: 1232716212
+        Data3: -788723065
+        Data4: -1453293385
+      Path: event:/Character/MushroomTank/MC_TakeOver
+    <Menu_Cancel>k__BackingField:
+      Guid:
+        Data1: -1173649195
+        Data2: 1102295689
+        Data3: -353867392
+        Data4: -1685139239
+      Path: event:/UI/Menu_Cancel
+    <Menu_Okay>k__BackingField:
+      Guid:
+        Data1: -1035506214
+        Data2: 1285913799
+        Data3: -205739863
+        Data4: -815657493
+      Path: event:/UI/Menu_Okay
+    <Menu_Select>k__BackingField:
+      Guid:
+        Data1: -1310981214
+        Data2: 1104290838
+        Data3: -468451153
+        Data4: 1350768651
+      Path: event:/UI/Menu_Select
+    <Menu_StartPlaying>k__BackingField:
+      Guid:
+        Data1: -1310981214
+        Data2: 1104290838
+        Data3: -468451153
+        Data4: 1350768651
+      Path: event:/UI/Menu_Select
+  <Ambience>k__BackingField:
+    <Ambience>k__BackingField:
+      Guid:
+        Data1: 1417656060
+        Data2: 1214757331
+        Data3: -2032199762
+        Data4: -1002974246
+      Path: event:/Character/MushroomTank/MC_Gets_Damage
