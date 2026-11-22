@@ -1,5 +1,6 @@
-Fungus Takeover
--by Mike Li, Anastasia Schleicher, Liam Hermann, Max Gundermann, Chisaki Broschinski, Karina Prjanikov, Saskia Hirschmann, Anthea Wolf, Aleksa Savic
+# Fungus Takeover
+by Mike Li, Anastasia Schleicher, Liam Hermann, Max Gundermann, Chisaki Broschinski, Karina Prjanikov, Saskia Hirschmann, Anthea Wolf, Aleksa Savic
+
 ---------------------------
 # IMPORTANT:
 This is only a showcase of my contributions (mainly code) and therefore, this repository has only a fraction of the full project. The full project is in a private repository, whose access can and are only given by me personally. This is done for avoiding legal issues due to having licensed Unity Asset Store packages open on Github.
